@@ -1,0 +1,17 @@
+
+Example 1: Login in Java Spring: Implementing user registration and login using Django's built-in features.
+
+This project implements user authentication and authorization with email verification in Java and Spring framework.  You could be interested in seeing this tutorial to gain insights on how to implement these workflows.
+1. https://github.com/amigoscode/login-registration-backend
+2. https://mj-7.medium.com/how-to-build-a-login-and-registration-form-with-email-verification-using-java-and-spring-framework-6ba670dcf9aa
+
+Example 2:  Adding Social Authentication to Flask
+
+This example project implements social authentication with GitHub and Twitter to a Flask application. You might want to checkout this 
+tutorial to understand how social authentication is implemented in web applications.
+
+1. https://testdriven.io/blog/flask-social-auth/
+2. https://github.com/testdrivenio/flask-social-auth
+
+Link : https://www.coursera.org/learn/showcase-build-user-login-system-django-website/home/week/1
+
